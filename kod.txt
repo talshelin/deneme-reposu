@@ -1,2 +1,2 @@
 bu benim birinci satırım..
-ikinci satiri ekledim.
+bu satiri degistim
